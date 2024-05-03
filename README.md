@@ -1,1 +1,1 @@
-# cirrosis
+# cirrhosis_patient_survival_prediction
